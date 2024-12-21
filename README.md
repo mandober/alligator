@@ -1,6 +1,3 @@
 # alligator
 
-Free list allocator
-
-Attempting to implement malloc-like allocator.
-
+Attempt to implement malloc-like free list allocator.
